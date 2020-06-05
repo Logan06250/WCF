@@ -1,0 +1,7 @@
+C:\Users\Logan\source\repos\WCFServiceProject\bin\WCFServiceProject.dll.config
+C:\Users\Logan\source\repos\WCFServiceProject\bin\WCFServiceProject.dll
+C:\Users\Logan\source\repos\WCFServiceProject\bin\WCFServiceProject.pdb
+C:\Users\Logan\source\repos\WCFServiceProject\obj\Debug\WCFServiceProject.csprojAssemblyReference.cache
+C:\Users\Logan\source\repos\WCFServiceProject\obj\Debug\WCFServiceProject.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\WCFServiceProject\obj\Debug\WCFServiceProject.dll
+C:\Users\Logan\source\repos\WCFServiceProject\obj\Debug\WCFServiceProject.pdb
